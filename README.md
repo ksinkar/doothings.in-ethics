@@ -16,8 +16,9 @@ MAKE SPACE (pun intended)
 
 DISCUSSIONS
 -------------------------------------------------------------------------------
-* While we appreciate and welcome healthy discussions but at the same time you are expected to make it happen in isolation making sure not disturbing others.
+* While we appreciate and welcome healthy discussions, you are expected to make them happen in isolation, making sure not to disturb others.
 
 SOFTWARE PIRACY
 -------------------------------------------------------------------------------
 * We are a community and we promote [Free and Open Source Softwares](http://en.wikipedia.org/wiki/Free_and_open-source_software).
+
