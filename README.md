@@ -26,3 +26,14 @@ MAKE SPACE (pun intended)
 DISCUSSIONS
 -------------------------------------------------------------------------------
 * While we appreciate and welcome healthy discussions, you are expected to make them happen in isolation, making sure not to disturb others.
+
+DAYS
+-------------------------------------------------------------------------------
+* Will be revised
+* MON |                |
+* TUE |                |
+* WED |                |
+* THU |                |
+* FRI |                |
+* SAT | Kernel Hacking | OpenCV/Kinect |
+* SUN | Quadcopter     | 3D Printing   |
