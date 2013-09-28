@@ -4,6 +4,15 @@ Since this is a hackerspace, which is curated and maintained by the community, y
 
 Pull requests welcome.
 
+LICENSING
+-------------------------------------------------------------------------------
+* We are a community and we promote [Free and Open Source Softwares](http://en.wikipedia.org/wiki/Free_and_open-source_software).
+* All the projects that are done using resources provided by doothings.in should be under an open source license.
+
+RESOURCES
+-------------------------------------------------------------------------------
+* You are free to use resources present at doothings.in your projects 
+
 CLEAN UP
 -------------------------------------------------------------------------------
 * You are expected to cleanup the table after you leave.
@@ -17,8 +26,3 @@ MAKE SPACE (pun intended)
 DISCUSSIONS
 -------------------------------------------------------------------------------
 * While we appreciate and welcome healthy discussions, you are expected to make them happen in isolation, making sure not to disturb others.
-
-SOFTWARE PIRACY
--------------------------------------------------------------------------------
-* We are a community and we promote [Free and Open Source Softwares](http://en.wikipedia.org/wiki/Free_and_open-source_software).
-
