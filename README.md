@@ -29,13 +29,13 @@ DISCUSSIONS
 
 DAYS
 -------------------------------------------------------------------------------
-______________________________________
-   :|               :|              :|
-MON |                |               |
-TUE |                |               |
-WED |                |               |
-THU |                |               |
-FRI |                |               |
-SAT | Kernel Hacking | OpenCV/Kinect |
-SUN | Quadcopter     | 3D Printing   |
-----------------------------------------
+
+| DAYS         | TRACKS        | TRACKS  |
+| ------ |:------------:| -----------:|
+| SUN    | QUADCOPTER   | 3D PRINTING |
+| MON    |           |    |
+| TUE    |       |     |
+| WED    |       |     |
+| THU    |       |     |
+| FRI    |       |     |
+| SAT    |       |     |
