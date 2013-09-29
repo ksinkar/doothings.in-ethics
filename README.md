@@ -7,7 +7,7 @@ Pull requests welcome.
 LICENSING
 -------------------------------------------------------------------------------
 * We are a community and we promote [Free and Open Source Softwares](http://en.wikipedia.org/wiki/Free_and_open-source_software).
-* All the projects that are done using resources provided by doothings.in should be under an open source license.
+* All the projects that are done using resources provided at doothings.in will be under the [MIT License](http://mit-license.org/). This includes the software as well as the hardware components.
 
 RESOURCES
 -------------------------------------------------------------------------------
