@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE rfc SYSTEM "1.dtd">
+
+<rfc>
+    <front>
+        <title abbrev="workflow of projects">
+            Proposed workflow for Scientific and Learning Projects carried out as a Group
+        </title>
+        <author initials="K.D." surname="Sinkar" fullname="Koustubh D. Sinkar">
+            <address>
+                <postal>
+                    <city>Pune</city>
+                    <region>Maharashtra</region>
+                    <country>India</country>
+                </postal>
+                <email>ksinkar@gmail.com</email>
+                <uri>http://www.ksinkar.in</uri>
+            </address>
+        </author>
+        <date month="April" year="2012"></date>
+        <area>Experimental</area>
+        <workgroup>Ethics Working Group</workgroup>
+        <keyword>workflow</keyword>
+        <keyword>projects</keyword>
+        <keyword>hackerspace</keyword>
+        <keyword>doothings</keyword>
+        <abstract>
+            <t> This memo presents a workflow for doing scientific projects in a
+            group, especially of the technical nature related to programming,
+            computer science and electrical engineering but NOT limited to those
+            fields. The workflow also applies to the learning of complex knowledge
+            with the help of peer groups, especially in the absence of a
+            structured environment for learning without a trained instructor
+            as is provided in Universities and Colleges.
+            </t>
+        </abstract>
+    </front>
+    <middle>
+        <section anchor="intro" title="Introduction">
+            <t> At various hackerspaces in and around Pune various projects are
+            being attempted. The number of hackerspaces abound and so do the
+            number of projects. Unfortunately all of the projects that are being
+            attempted at various hackerspaces are usually of the beginner level
+            and only some of them graduate to intermediate or to the advanced
+            level.
+            </t>
+            <t> This is a proposed framework to carry out projects and to learn
+            complex skill sets in a self-learning group such that at the end of
+            the project the participant has retained majority of the knowledge
+            and is capable of attempting the same tasks with more confidence
+            and in less amount of time (the participant having successfully
+            climbed the learning curve in the previous iteration).
+            </t>
+        </section>
+        <section anchor="project" title="The Project and its types">
+            <t> A project is nothing but a group of doable tasks with specific
+            objectives each, a time constraint for performing each task and
+            a specific structure about how to go about attempting all the tasks.
+            </t>
+            <section anchor="project_classification" title="Classification">
+                Any project that is attempted can be classified into one of the
+                following types:-
+                <list style="symbols">
+                    <t>Learning</t>
+                    <t>Building</t>
+                </list>
+            </section>
+            A project that is going to be attempted should have the following
+            ingredients:-
+            <list>
+                <t> A well defined list of tasks with an objective each</t>
+                <t> The number of meetings to attempt that project should
+                not be more than five. If it seems that the number of meetings
+                for the given project are going to be more than 5 then reconsider
+                splitting the project into two projects.
+                </t>
+                <t> A project is headed by a project master. The project master
+                is the leader of the project
+                </t>
+            </list>
+        </section>
+        <section anchor="group_composition" title="Group Composition">
+            <t>Whenever we are working in a group there is always a slight
+            management/co-ordination overhead just because of the fact that it
+            is a group activity. All the members of the group that are
+            participating in the project are going to be equal participants in
+            the project as far as the activities of learning and building are
+            concerned. But in spite of that there will be participants who are
+            willing to take more initiative and go the extra mile to help the
+            project succeed. These participants  will have to volunteer to take
+            care of these meta tasks. These participants shall form the Enablers
+            Team. The other participants will merely participate in the project
+            helping achieve the project objectives.
+            </t>
+            <section anchor="participants" title="The Participants">
+                <t> The participants in the project should be individuals who
+                are sufficiently motivated and interested in the objectives of
+                the project and have the pre-requisite abilities to finish the
+                tasks in the project. The number of participants in the project
+                should not be more than 25 people not including the Enablers.
+                </t>
+            </section>
+            <section anchor="enablers" title="The Enablers">
+                <t>  The Enablers' team will ideate, originate and enable the
+                project. While working in a team it is best when the responsibilities
+                of each individual are clearly defined as it helps in better
+                execution and less interference from other members of the team.
+                The Enablers team consists of the following members:
+                <list style="numbers">
+                    <t> The Project Master</t>
+                    <t> Subject Matter Expert/s </t>
+                    <t> The Sergeant at Arms </t>
+                    <t> The Human Link </t>
+                    <t> The Treasurer </t>
+                </list>
+                </t>
+                <section anchor="project_master" title="The Project Master">
+                    <t> A project is headed by a Project Master (PM). The PM is
+                    the chief enabler of the project. He/she is not necessarily the most
+                    scientifically/technically competent participant in the project, but
+                    it is his responsibility as the creator of the project to clearly
+                    lay down the objectives of the project and determine its overall
+                    structure. It is the PM's responsibility to build the
+                    Enablers' Team to assist him in successfully enabling the
+                    project. The other role-players should be competent and
+                    motivated enough to discharge their duties. If under any
+                    circumstances they are unable to do so, the PM has to step in
+                    and discharge their duties in addition to his existing ones. It is
+                    also his responsibility to involve the subject matter expert/s
+                    while creating the structure of the project.
+                    </t>
+                </section>
+                <section anchor="subject_matter_expert" title="Subject Matter Expert/s">
+                    <t> A Subject Matter Expert (SME) is someone who has done work which
+                    is similar/related to the work being done in the current project.
+                    He/she should be reasonably be more confident about the
+                    subject than the rest of the participants. He/she should have
+                    a fair and reasonable idea as to challenges that will be faced
+                    in the course of the project. He/she shall be primarily responsible
+                    for the structure of the project and its planning. During the
+                    project his role will be that of a mentor. If the SME
+                    is himself/herself a novice, then it is his/her duty to
+                    prepare reasonably well in advance and be prepared to
+                    help/guide others during the project meetings.
+                    </t>
+                    <t> There can be more than one Subject Matter Experts
+                    for a project. More than one Subject Matter Experts maybe
+                    required for an extremely complex project, but most of the
+                    intermediate level and even the advanced projects need only
+                    one subject matter expert. Having more than subject matter
+                    expert/s when not required will not lighten the burden instead
+                    it will create more confusion and stale-mates within the
+                    Project Team.
+                    </t>
+                </section>
+                <section anchor="saa" title="The Sergeant-at-Arms">
+                    <t> The Sergeant at Arms (SAA) is responsible for the infrastructure
+                    and logistics of the project in question. He/she has to make
+                    sure that the necessary permissions for carrying out the
+                    project at the venue have been acquired and the apparatus
+                    needed for doing the project is ready for use and well-tested.
+                    It is expected of the SAA within reasonable limits to have
+                    alternative backups in place if the primary apparatus fails.
+                    </t>
+                </section>
+                <section anchor="human_link" title="The Human Link">
+                    <t>The Human Link (HL) is responsible for making sure that
+                    an interested audience is aware of the project taking place.
+                    He/she has to make sure that the project participants are on
+                    the same page about project meeting venue and timings. The
+                    HL is primarily responsible for communication between the
+                    Enablers and rest of the Participants.
+                    </t>
+                </section>
+                <section anchor="treasurer" title="The Treasurer">
+                    <t> The Treasurer is responsible for the finance management
+                    of the project if any. Some projects might not need a
+                    treasurer at all in case if no money is involved. But a
+                    person separate than the SAA is recommended for handling
+                    the finances of the project if they are significant.
+                    </t>
+                </section>
+
+                <t> There is no hard and fast rule that each of the roles defined
+                above have to be done by separate individuals. It is perfectly
+                okay for one individual to perform multiple roles or to perform
+                all these roles, but it is better and recommended that the
+                responsibilities are divided to avoid a burnout and to keep
+                process of doing these projects from dying out. Also the
+                involvement of multiple individuals in the process makes sure
+                that a community feeling is fostered and the process continues
+                to live even if individuals leave the community. The reason why
+                this process has been proposed is to stop the decline that
+                that community faces once the individuals who led it have to
+                leave it.
+                </t>
+            </section>
+        </section>
+    </middle>
+    <back>
+    </back>
+</rfc>
